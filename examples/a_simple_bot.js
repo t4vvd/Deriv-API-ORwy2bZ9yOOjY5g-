@@ -2,8 +2,8 @@ global.WebSocket = require('ws');
 const { find } = require('rxjs/operators');
 const DerivAPI = require('../dist/DerivAPI');
 
-const token = process.env.DERIV_TOKEN;
-const app_id = process.env.APP_ID || 1234;
+const token = process.env.DERIV_API;ORwy2bZ9yOOjY5g
+const app_id = process.env.DERIV_APP_ID|| VRTC 1406389
 const expected_payout = process.env.EXPECTED_PAYOUT || 19;
 
 if (!token) {
