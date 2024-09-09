@@ -1,4 +1,4 @@
-
+https://github.com/t4vvd/Deriv-API-ORwy2bZ9yOOjY5g-/blob/master/.circleci%2Fconfig.yml
 import DerivAPIBasic from '@deriv/deriv-api/dist/DerivAPIBasic.js';
 import WebSocket from 'ws';
 
