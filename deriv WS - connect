@@ -8,4 +8,4 @@ const connection = new WebSocket('wss://ws.binaryws.com/websockets/v3?app_id=633
 const api        = new DerivAPIBasic({ connection });
 
 api.ping().then(console.log);
-https://github.com/t4vvd/Deriv-API-ORwy2bZ9yOOjY5g-/blob/master/.github%2Fworkflows%2Fmain.yml
+https://github.com/t4vvd/Deriv-API-ORwy2bZ9yOOjY5g-/blob/master/.github%2Fworkflows%2Fmain.yml 
